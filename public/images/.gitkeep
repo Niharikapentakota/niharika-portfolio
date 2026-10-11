@@ -1,0 +1,5 @@
+# /public/images/
+
+This directory is for static assets served directly by Vite.
+
+- `profile.jpg` — Your profile photo (add a 500x500+ square image). The site shows a fallback until this is added.

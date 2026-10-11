@@ -1,0 +1,12 @@
+# Resume Placeholder
+
+Add your resume here as `resume.pdf`.
+
+The "Download Resume" button in the hero section will download this file. Until you add it, the button will show an alert prompting you to add the file.
+
+**Instructions:**
+1. Name your resume file `resume.pdf`
+2. Place it in this `public/` folder
+3. The download button will automatically work
+
+**Recommended:** Export your resume as PDF for best compatibility.
